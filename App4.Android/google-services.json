@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15100464267",
+    "project_id": "oxybills-22af4",
+    "storage_bucket": "oxybills-22af4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15100464267:android:f9514544f30e9b0f95988e",
+        "android_client_info": {
+          "package_name": "com.companyname.app4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15100464267-3s053buksuud4fcmid0otpno33splkjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrcwPOoHBX_3O7j47VTX58vW3v-EB-Kvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15100464267-3s053buksuud4fcmid0otpno33splkjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
